@@ -4,7 +4,7 @@
 ## I'm a Student in Universidade do Minho
 
 - 🔭 I’m currently learning JAVA ,C and Haskell
-- I’m interested in sports and videogames
+- ⚽ I’m interested in sports and videogames
 
 
 ### Languages and Tools:
