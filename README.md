@@ -5,7 +5,7 @@
  I'm from a small city in the Northeast of Portugal called Valpaços,Vila Real.
 
 
-- 🔭 I’m currently studying Computer Engeneering in Universidade Do Minho
+ 🔭 I’m currently studying Computer Engeneering in Universidade Do Minho
 
 
 
