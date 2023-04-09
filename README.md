@@ -5,7 +5,9 @@
  I'm from a small city in the Northeast of Portugal called Valpaços,Vila Real.
 
 
- 🔭 I’m currently studying Computer Engeneering in Universidade Do Minho
+ 🔭 I’m currently studying Software Engeneering in Universidade Do Minho.
+ 
+ The content of this GitHub is mainly School Projects.Hope you enjoy.
 
 
 
