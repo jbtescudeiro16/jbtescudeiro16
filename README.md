@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 
 # I'm Bernardo  - aka [jbtescudeiro16] 
 
@@ -11,8 +11,7 @@
 ### Languages :
 
 
-###Tools :
-<i class="devicon-devicon-plain">aa</i>
+
 
 
 
