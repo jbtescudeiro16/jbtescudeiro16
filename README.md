@@ -1,7 +1,8 @@
 
 
 # I'm Bernardo  - aka [jbtescudeiro16] 
-
+<g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">📍</g-emoji>
+ I'm from a small city in the Northeast of Portugal called Valpaços,Vila Real.
 
 
 - 🔭 I’m currently studying Computer Engeneering in Universidade Do Minho
