@@ -1,10 +1,9 @@
 # I'm Bernardo  - aka [jbtescudeiro16] 
 
 
-## I'm a Student in Universidade do Minho
 
-- 🔭 I’m currently learning JAVA ,C and Haskell
-- ⚽ I’m interested in sports and videogames
+- 🔭 I’m currently studying Computer Engeneering in Universidade Do Minho
+
 
 
 ### Languages and Tools:
