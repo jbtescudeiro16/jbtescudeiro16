@@ -5,7 +5,7 @@
 - I´m interested in areas such as machine learning and data mining, as well as Full Stack Developing.
 - I´m passionate about football. ⚽
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bernardo Escudeiro) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-escudeiro-0641a5229/) 
 
 ## OS I´m familiar with:
 <div style="display: inline_block">
