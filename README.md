@@ -36,8 +36,6 @@
 
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbtescudeiro16&langs_count=8&hide=jupyter%20notebook)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbtescudeiro16&layout=pie&langs_count=8&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
