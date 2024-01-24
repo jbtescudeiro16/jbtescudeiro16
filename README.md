@@ -35,7 +35,8 @@
 <img align="center" alt="prolog" src="https://img.shields.io/badge/Prolog-FFD700?style=for-the-badge&logo=swi-prolog&logoColor=black" />
 
 </div><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbtescudeiro16&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbtescudeiro16&size_weight=0.5&count_weight=0.5)
 
 
 
