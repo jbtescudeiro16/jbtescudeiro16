@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João Escudeiro</h1>
+<h1 align="center">Hi , I'm João Escudeiro</h1>
 <h3 align="center">A master's degree student in computer engineering at Universidade do Minho.</h3>
 
 <h3 align="left">Connect with me:</h3>
