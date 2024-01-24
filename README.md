@@ -1,4 +1,4 @@
-## Hello I´m João Escudeiro 👨‍💻
+# Hello I´m João Escudeiro 👨‍💻
 
 - I'm a master's degree student in Software Engineering at Universidade do Minho.
 - I´m from Valpaços, Vila Real. 📍
@@ -42,7 +42,7 @@
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jbtescudeiro16&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jbtescudeiro16&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jbtescudeiro16&langs_count=8&hide=jupyter%20notebook&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
