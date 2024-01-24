@@ -5,10 +5,7 @@
 - I´m interested in areas such as machine learning and data mining, as well as DevOps.
 - I´m passionate about football.
 
-
-
-
-
+## OS I´m familiar with:
 <div style="display: inline_block">
   <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
