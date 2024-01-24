@@ -1,11 +1,13 @@
-## Hello I´m João Escudeiro 🖐️
+## Hello I´m João Escudeiro 
 
 - I'm a master's degree student in Software Engineering at Universidade do Minho.
-- I´m from Valpaços, Vila Real
+- I´m from Valpaços, Vila Real.
+- I´m interested in areas such as machine learning and data mining, as well as DevOps.
+- I´m passionate about football.
 
 
 
-## My Programming Skills
+💻 ##  My Programming Skills
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
