@@ -1,9 +1,9 @@
 ## Hello I´m João Escudeiro 
 
 - I'm a master's degree student in Software Engineering at Universidade do Minho.
-- I´m from Valpaços, Vila Real.
+📍 - I´m from Valpaços, Vila Real. 
 - I´m interested in areas such as machine learning and data mining, as well as DevOps.
-- I´m passionate about football.
+- I´m passionate about football. ⚽
 
 ## OS I´m familiar with:
 <div style="display: inline_block">
