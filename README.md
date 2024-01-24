@@ -34,8 +34,8 @@
   <img align="center" alt="latex" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 <img align="center" alt="prolog" src="https://img.shields.io/badge/Prolog-FFD700?style=for-the-badge&logo=swi-prolog&logoColor=black" />
 
-
 </div><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbtescudeiro16&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
