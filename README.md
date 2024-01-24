@@ -1,4 +1,4 @@
-## Hello I´m João Escudeiro 
+## Hello I´m João Escudeiro 👨‍💻
 
 - I'm a master's degree student in Software Engineering at Universidade do Minho.
 - I´m from Valpaços, Vila Real. 📍
