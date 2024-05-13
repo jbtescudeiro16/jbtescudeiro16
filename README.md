@@ -1,6 +1,6 @@
 # Hello I´m João Escudeiro 👨‍💻
 
-- I'm a master's degree student in Software Engineering at Universidade do Minho.
+- I'm a master's degree student in Software Engineering at Universidade do Minho, specializing in Machine Learning and Data Science.
 - I´m from Valpaços, Vila Real. 📍
 - I´m interested in areas such as Machine Learning and data mining, as well as Full-Stack Developing.
 - The content of this GitHub is mainly University Projects.
