@@ -2,7 +2,7 @@
 
 - I'm a master's degree student in Software Engineering at Universidade do Minho, specializing in Machine Learning and Data Science.
 - I´m from Valpaços, Vila Real. 📍
-- I´m interested in areas such as Machine Learning and data mining, as well as Full-Stack Developing.
+- I´m interested in areas such as Machine Learning and Data Science, as well as Full-Stack Developing.
 - The content of this GitHub is mainly University Projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-escudeiro-0641a5229/) 
