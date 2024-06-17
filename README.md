@@ -7,11 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-escudeiro-0641a5229/) 
 
-## OS I´m familiar with:
-<div style="display: inline_block">
-  <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</div>
+
 
 
  ##  My Programming Skills 💻
